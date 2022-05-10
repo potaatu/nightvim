@@ -1,7 +1,7 @@
 # NightVim
 
 ## What it is
-Just a SINGLE FILE configuration file for neovim with color scheme included (tokyonight).
+Just a SINGLE FILE configuration for neovim with color scheme included (tokyonight).
 
 ## What to do
 Simple copy and paste the init.vim to $HOME/.config/nvim/init.vim
