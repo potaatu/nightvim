@@ -11,6 +11,6 @@ Simply copy-paste the `init.vim` file to `$HOME/.config/nvim/` directory
 * Tokyonight Colorscheme embedded inside the config file
 * A custom-built Statusline which nicely complements the colorscheme
 * Mappings for viewing `Netrw` as a sidebar (like `NERDTree`, but no bloat)
-* The `Current Line Number` color changes when entering insert mode
+* The **Current Line Number** color changes when entering insert mode
 * A few other tweeks here and there
 * Lots of giggles :)
